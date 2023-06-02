@@ -20,5 +20,10 @@ describe('AppController (e2e)', () => {
       .get('/')
       .expect(200)
       .expect('Hello World!');
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> c021088
   });
 });
