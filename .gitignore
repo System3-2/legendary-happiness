@@ -32,7 +32,11 @@ lerna-debug.log*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
+<<<<<<< HEAD
 !.vscode/extensions.json
 
 .env
 
+=======
+!.vscode/extensions.json
+>>>>>>> 6cddd8f (discord initial setup)

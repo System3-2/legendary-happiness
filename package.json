@@ -25,7 +25,10 @@
     "@nestjs/config": "^2.3.2",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+<<<<<<< HEAD
     "@platohq/nestjs-openai": "^0.0.3",
+=======
+>>>>>>> 6cddd8f (discord initial setup)
     "discord.js": "^14.11.0",
     "dotenv": "^16.1.3",
     "reflect-metadata": "^0.1.13",
